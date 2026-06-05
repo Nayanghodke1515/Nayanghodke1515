@@ -30,7 +30,7 @@ Built predictive models to analyze and forecast real estate trends.
 Developed machine learning models to evaluate customer credit eligibility.
 
 ## Connect With Me
-LinkedIn: www.linkedin.com/in/nayan-ghodke-2659941a7
+LinkedIn: https://www.linkedin.com/in/nayan-ghodke/
 Email: adityaghodke20@gmail.com
 
 <!--
